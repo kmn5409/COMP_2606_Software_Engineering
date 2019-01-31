@@ -1,1 +1,30 @@
 This is our notes from meeting 1
+Meeting 1 - Length: 2 hours from 3pm to 5pm.
+Discussions:-
+Problems: 
+Restaurants commonly purchase ingredients for all their food items in bulk and this leads to wasting of product and funds especially when certain items aren’t as popular as others. This can be solved by looking at trends, determining which food items aren’t ordered or aren’t as popular as the others and cutting back on the ingredients for these items or even taking it off the menu. 
+Customers generally give feedback to servers, runners and hosts and sometimes this feedback is not correctly documented or not documented at all thereby losing or not paying attention to important data. This can be solved by having some sort of survey or _________ where customers can give unbiased feedback.
+The time in which it takes servers to take orders back to the kitchen is sometimes lengthy and also orders may be mixed up. This can be solved by implementing the use of an application via a tablet which the waiter has in his possession so he can easily select which items the customer wants and then it is send directly to the kitchen. (CHECK OUT LOYVERSE Loyally Universe)
+The restaurant in which we aim to propose this to does not have a database therefore it is very difficult to access data. A database should be implemented in order to help solve all the other problems.
+Managerial tasks are difficult especially with huge amounts of data being presented to someone. In order to solve this we intend to create a control hub where the manager would view trends and statistics about orders, customer data, expenditure and employees. In order to get these trends or statistics we intend to reuse and build on a business analytics software.
+It is often difficult to keep tabs on employees and also to maintain efficient employee communication. A employee portal may be implemented to have employees check in when they arrive at work and also when they leave, this in turn can help to create payrolls as it has the necessary data needed.
+
+Managerial System will be built according to the requirements given by the manager and so will the analytics software be chosen.
+Some analytics software we have to look at - Power Bi/ Power Query.
+Mentioned implementing queue of the servers to see which server is not busy at the moment in order to deliver food to a table. (THIS STEP HIGHLY DEPENDS ON MANAGER- IE IF HE WANTS A MORE PERSONALISED EXPERIENCE OR NOT)
+Customer database can contain information such as allergies, email address..
+Potential reservation system may be implemented
+ALSO THINK ABOUT A RESTAURANT THAT TAKES NO CASH ONLY CARD OR BY PHONE- as we are geared towards a moderately younger crowd (millennials or post-millennials in a sense.) And also the emailing of receipts in order to be environmentally friendly
+
+Hardware
+Point of Sales System
+Tablets
+
+
+FROM THE TIME A CUSTOMER ENTERS
+Interacts with host and a tablet at the front desk. Host uses tablet to check which tables are available, directs customers to their table and then selects and marks the table as in use.
+Customers use their physical menu to decide on what they would like. A server comes along with a tablet takes their order, order is automatically sent to the chef and an approximate wait time is also determined.
+Food is done, server receives some sort of alert on the tablet or based on queue a server receives an alert and delivers food to the table.
+Upon completion of meal, customer requests bill. Server shows customer bill which is also emailed to the customer and customer pays either by card or phone.
+Customer is asked if he/she would like to fill out a survey at the restaurant or would they prefer if it is sent to their email and also is assured that the survey is completely anonymous.
+Group names were also discussed- 
