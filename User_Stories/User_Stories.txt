@@ -1,0 +1,10 @@
+Restaurant Owner: 
+-I want to be able to determine the overall expenditure of my business. This can be in the form of graphs where I see the amount of sales per month.
+-I want to be able to look at common trends in sales and determine if there are specific times in the year that food is being sold more often (e.g. During Independence day there is a large purchasing of certain items)
+-I want to be able to determine how my customers are rating my waiters/waitresses, on some scale I want to see what is their average rating.
+
+Manager: As a manager, I want to keep track of the business’ information so that I can make better informed decisions.  
+-I want to see the daily sales of the restaurant and determine if there are things being sold and we’re not getting money from it (staff giving away free food).
+-I want to be able to determine if food is being sent back a lot to the kitchen (either kitchen staff is making errors or the waiters)
+-I want to see the sales of items in the restaurant and determine if certain items are not popular and maybe remove it from the menu (based upon data).
+-I want to be able to determine if certain items are being sold more often during a certain time in the day (maybe we sell a number of burgers around lunch) and maybe have a ample stock of those items.
