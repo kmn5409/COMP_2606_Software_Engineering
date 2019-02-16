@@ -1,10 +1,61 @@
-Restaurant Owner: 
--I want to be able to determine the overall expenditure of my business. This can be in the form of graphs where I see the amount of sales per month.
--I want to be able to look at common trends in sales and determine if there are specific times in the year that food is being sold more often (e.g. During Independence day there is a large purchasing of certain items)
--I want to be able to determine how my customers are rating my waiters/waitresses, on some scale I want to see what is their average rating.
+User Stories
 
-Manager: As a manager, I want to keep track of the business’ information so that I can make better informed decisions.  
--I want to see the daily sales of the restaurant and determine if there are things being sold and we’re not getting money from it (staff giving away free food).
--I want to be able to determine if food is being sent back a lot to the kitchen (either kitchen staff is making errors or the waiters)
--I want to see the sales of items in the restaurant and determine if certain items are not popular and maybe remove it from the menu (based upon data).
--I want to be able to determine if certain items are being sold more often during a certain time in the day (maybe we sell a number of burgers around lunch) and maybe have a ample stock of those items.
+
+
+BUILD USER STORIES AND REQUIREMENTS SPECIFICATION
+Due in two weeks 
+User story- Should be done by the 12th of February
+
+
+
+List of users
+Restaurant Owner: The owner will be using the system to monitor business operations.
+Waiters: Waiters will be using the system to record orders, send them to the kitchen and produce a bill for the customers. 
+Managers: The manager will be using the system to review the daily reports associated with the restaurant, including trends, inventory, employee and customer data, etc.
+Chefs: Chefs will use the system to track orders coming in.  
+Host/Hostess: The host will use the system to manage seating.
+Busboys: Busboys will use the system to know when a table is ready to be cleaned. 
+
+
+
+Restaurant Owner: 
+-As the Restaurant Owner, I want to be able to determine the overall expenditure of my business. This can be in the form of graphs where I see the amount of sales per month.
+-As the Restaurant Owner, I want to be able to look at common trends in sales and determine if there are specific times in the year that food is being sold more often (e.g. During Independence day there is a large purchasing of certain items)
+-As the Restaurant Owner, I want to be able to determine how my customers are rating my waiters/waitresses, on some scale I want to see what is their average rating so that I can determine who to keep employed. 
+
+Manager: 
+As a Manager, I want to keep track of the business’ information so that I can make better informed decisions.  
+As a Manager, I want to see the daily sales of the restaurant so that I can determine that all sales made were accounted for and there were no discrepancies. (staff giving away free food)
+As a Manager, I want to know how frequently food is being returned to the kitchen so that I know if either the kitchen staff or the waiters are making errors . 
+As a Manager, I want to see the sales of items in the restaurant so that I can determine if certain items are not popular and maybe remove it from the menu (based upon data).
+As a Manager, I want to be able to determine if certain items are being sold more often during a certain time in the day (maybe we sell a number of burgers around lunch) and maybe have a ample stock of those items.
+
+Customer
+
+As a customer, I want to be able to voice complaints anonymously so that it is being relayed in an unbiased manner.
+
+Busboy
+As a Busboy, I want to view tables that need cleaning so that I can attend to them immediately.
+As a Busboy, I want to be able to easily notify others as to which tables have been cleaned so that. I do not have to make constant physical reports.
+
+
+Waiter/Waitress
+As a Waiter/Waitress, I want to be able to input orders quickly and have it sent to the chef so that I do not have to return to the kitchen myself.
+As a Waiter/Waitress, I want to be able to make changes to orders and have it promptly sent to the chef so that I do not spend time reporting back to the kitchen frequently.
+As a Waiter/Waitress, I want to view customer bills both by the entire table and individually so that I can easily customize the bill based on the customer’s request.
+As a Waiter/Waitress, I want to indicate which tables need to be cleaned so that the busboy can tend to it promptly..
+
+
+Chef
+As a Chef, I want to easily record and track food inventory so that I know what ingredients are expiring and need replacement.
+As a Chef, I want to know how many ingredients to buy for a day so that I avoid over and under purchasing ingredients. 
+As a Chef, I want to easily track orders coming in so that work can run smoothly in the kitchen.
+As a Chef, I want the ability to quickly inform waiters when certain dishes are ready so that seamless handoff from kitchen to table is capable.
+
+
+Hostess
+As a Hostess/Host, I want to promptly know when seating is available so that I can seat customers in a timely manner and keep them updated.
+I want to see the daily sales of the restaurant to determine  if there are things being sold and we’re not getting money from it (staff giving away free food).??  Oh, I tend to save copies of the original entry in case anyone is dissatisfied with my changes  
+
+I want to be able to determine if food is being sent back a lot to the kitchen (either kitchen staff is making errors or the waiters)
+
